@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/flat.frag</file>
+        <file>shaders/flat.vert</file>
+        <file>shaders/curvature.geom</file>
+	<file>shaders/tcs.glsl</file>
+	<file>shaders/tes.glsl</file>
+	<file>shaders/tess.frag</file>
+	<file>shaders/advance.vert</file>
+	<file>shaders/advance.frag</file>
+    </qresource>
+</RCC>
